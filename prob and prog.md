@@ -29,4 +29,4 @@ So, [here](https://github.com/grdnrmzy/multiplayerProject.git) is repo with Mult
 
 ### Our problems
 
-![1605786450244541160.png](C:/git/multiplayerProject/1605786450244541160.png)
+![1605786450244541160.png](multiplayerProject/1605786450244541160.png)
